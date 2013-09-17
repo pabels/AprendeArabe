@@ -24,9 +24,10 @@ La intención de esta aplicación web es que se aprenda a modo de juego el vocab
 ##Planteamiento
 
 El usuario tendrá que registrarse_/loggearse en el programa, se le hará una explicación de la lección y podrá elegir entre tipos de juegos (exámenes).
-	1.De lectura
-	2.Elegir la imagen correcta.
-	3.De sonido.
+1. De lectura
+2. Elegir la imagen correcta.
+3. De sonido.
+
 Cada juego constará de 10 preguntas. Una vez completados los tres juegos podrá pasar a la siguiente lección.
 
 El usuario dispondrá de 4 vidas por juego. Cada error le restará una, y en el caso de que se quede sin vidas tendrá que repetir el juego entero.
