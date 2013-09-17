@@ -24,6 +24,7 @@ La intención de esta aplicación web es que se aprenda a modo de juego el vocab
 ##Planteamiento
 
 El usuario tendrá que registrarse_/loggearse en el programa, se le hará una explicación de la lección y podrá elegir entre tipos de juegos (exámenes).
+
 1. De lectura
 2. Elegir la imagen correcta.
 3. De sonido.
