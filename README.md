@@ -3,7 +3,7 @@ Proyecto del Grupo formado por Najim Aghmir, Raúl Rubio y David Dávila para el
 
 ##Motivo
 
-Los tiempos que corren invitan a la migración de masas por todo el mundo, cada vez más la gente recurre a buscar su futuro donde se lo puedan ofrecer, a sacrificar tiempo y dinero, a dejar atrás todo el pasado, en definitiva, a dar un portazo a la vida esperada por una inversión personal que ha largo plazo proporcione una estabilidad laboral y del mismo modo económica.
+Los tiempos que corren invitan a la migración de masas por todo el mundo, cada vez más la gente recurre a buscar su futuro donde se lo puedan ofrecer, a sacrificar tiempo y dinero, a dejar atrás todo el pasado, en definitiva, a dar un portazo a la vida esperada por una inversión personal que a largo plazo proporcione una estabilidad laboral y del mismo modo económica.
 
 Creemos, apoyamos y  apostamos desde este grupo de trabajo, por el desarrollo personal e intelectual y la actitud auto-emprendedora.
 
